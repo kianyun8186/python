@@ -1,0 +1,4 @@
+veggie pizza:$8.00
+mushroom pizza:$8.00
+veggie pasta:$9.00
+truffle pasta:$9.50

@@ -1,0 +1,6 @@
+french fries:$2.00
+cheese sticks:$2.00
+cheese fries:$2.50
+nacho chips:$2.00
+veggie salad:$3.50
+fruits salad:$4.00

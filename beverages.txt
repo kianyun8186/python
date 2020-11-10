@@ -1,0 +1,5 @@
+coffee(cold):$2.50
+coffee(hot):$2.00
+milktea(cold):$2.50
+milktea(hot):$2.00
+milk shake:$3.00
