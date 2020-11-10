@@ -1,2 +1,2 @@
-# python
-My python projects. Learning as my python slithers along.
+# python cafe
+Cafe menu system. Learning as my python slithers along.
